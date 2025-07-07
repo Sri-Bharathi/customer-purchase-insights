@@ -1,0 +1,4 @@
+sale_id,customer_id,product_id,quantity,sale_date,name,country,age,product_name,category,price
+1,1,101,2,2024-01-10,John Doe,USA,28,Keyboard,Electronics,20.99
+2,2,103,5,2024-02-15,Alice Smith,UK,34,Notebook,Stationery,2.99
+3,3,102,1,2024-03-20,Ravi Kumar,India,25,Mouse,Electronics,10.49
